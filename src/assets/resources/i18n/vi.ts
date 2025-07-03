@@ -280,9 +280,9 @@ export const languages = {
         "win_tumble_msg": "CHÚC MỪNG!",
         "you_win_free_spin": "Bạn đã thắng"
     },
-    "FruitSamurai": {
-        "game_icon_name": "Chém\nHoa Quả",
-        "game_name": "Chém Hoa Quả"
+    "Olympub": {
+        "game_icon_name": "Quán Bar\nOlympus",
+        "game_name": "Quán Bar Olympus"
     }
 };
 

@@ -1,18 +1,18 @@
 {
     "lobbyNames": {
-        "en": "Fruit Samurai",
-        "id": "Fruit Samurai",
-        "th": "ผลไม้ซามูไร",
-        "vi": "Chém\nHoa Quả",
-        "zh_cn": "武士水果",
-        "zh_tw": "武士水果"
+        "en": "Olympub",
+        "id": "Olympub",
+        "th": "Olympub",
+        "vi": "Quán Bar\nOlympus",
+        "zh_cn": "奥林酒馆",
+        "zh_tw": "奧林酒館"
     },
     "gameNames": {
-        "en": "Fruit Samurai",
-        "id": "Fruit Samurai",
-        "th": "ผลไม้ซามูไร",
-        "vi": "Chém Hoa Quả",
-        "zh_cn": "武士水果",
-        "zh_tw": "武士水果"
+        "en": "Olympub",
+        "id": "Olympub",
+        "th": "Olympub",
+        "vi": "Quán Bar Olympus",
+        "zh_cn": "奥林酒馆",
+        "zh_tw": "奧林酒館"
     }
 }
