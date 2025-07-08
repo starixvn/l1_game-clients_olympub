@@ -34,7 +34,7 @@ aph-eyes
   index: -1
 aph-hair
   rotate: false
-  xy: 1918, 107
+  xy: 1968, 1176
   size: 15, 22
   orig: 15, 22
   offset: 0, 0
@@ -363,7 +363,7 @@ lighting1/Electric FX 08
   index: -1
 lighting1/Electric FX 10
   rotate: true
-  xy: 1938, 107
+  xy: 1940, 107
   size: 100, 33
   orig: 100, 33
   offset: 0, 0
@@ -664,10 +664,10 @@ lightingblur
   index: -1
 s0-glass
   rotate: false
-  xy: 1795, 120
-  size: 70, 95
+  xy: 1795, 119
+  size: 72, 96
   orig: 80, 97
-  offset: 5, 1
+  offset: 4, 1
   index: -1
 s0-puddle
   rotate: true
@@ -699,7 +699,7 @@ s1-quai
   index: -1
 s1-xo
   rotate: false
-  xy: 1867, 131
+  xy: 1869, 131
   size: 69, 76
   orig: 69, 76
   offset: 0, 0
@@ -713,10 +713,10 @@ s10-13-circle
   index: -1
 s10-13-hand
   rotate: true
-  xy: 1245, 875
-  size: 68, 103
+  xy: 1245, 876
+  size: 67, 103
   orig: 80, 110
-  offset: 11, 7
+  offset: 12, 7
   index: -1
 s10-bg
   rotate: false
@@ -769,7 +769,7 @@ s2-puddle
   index: -1
 s3-glass
   rotate: true
-  xy: 1787, 49
+  xy: 1787, 48
   size: 69, 94
   orig: 69, 103
   offset: 0, 5
@@ -860,7 +860,7 @@ s7-bg
   index: -1
 s8-Y1
   rotate: false
-  xy: 1484, 477
+  xy: 1918, 112
   size: 20, 17
   orig: 20, 17
   offset: 0, 0

@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "hzCtcwJWcijzgW5IHWZ1FgC2BB0", "spine": "3.8.99", "images": "./images/", "audio": "" },
+"skeleton": { "hash": "DmII8WFiguNJhUIGm8gCJSb2gq0", "spine": "3.8.99", "images": "./images/", "audio": "" },
 "bones": [
 	{ "name": "root" },
 	{ "name": "bg", "parent": "root", "y": 0.71 },
@@ -13,7 +13,7 @@
 "slots": [
 	{ "name": "bg", "bone": "bg" },
 	{ "name": "lightingmask", "bone": "root", "attachment": "lightingmask" },
-	{ "name": "lighting3", "bone": "lighting3", "color": "e47ddbff", "blend": "additive" },
+	{ "name": "lighting3", "bone": "lighting3", "color": "e47d7dff", "blend": "additive" },
 	{ "name": "circle", "bone": "circle" },
 	{ "name": "handmask", "bone": "root", "attachment": "handmask" },
 	{ "name": "hand", "bone": "hand" },
@@ -164,7 +164,7 @@
 					{ "color": "ffffff00", "curve": "stepped" },
 					{ "time": 0.3333, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
 					{ "time": 0.5, "color": "fffffff2", "curve": 0.25, "c3": 0.75 },
-					{ "time": 1.1667, "color": "e47ddb00" }
+					{ "time": 1.1667, "color": "e47d7d00" }
 				],
 				"attachment": [
 					{ "name": "lightingblur" }
@@ -226,7 +226,7 @@
 			},
 			"lighting3": {
 				"color": [
-					{ "color": "e47ddb83" }
+					{ "color": "e47d7d83" }
 				],
 				"attachment": [
 					{ "name": "lighting3/lighting_00042" },
