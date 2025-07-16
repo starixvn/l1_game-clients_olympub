@@ -1,139 +1,293 @@
 
 icon-game.webp
-size: 1980,444
+size: 1796,618
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-images/Eyelid
+bantay-01
   rotate: false
-  xy: 847, 18
-  size: 45, 17
-  orig: 45, 17
-  offset: 0, 0
+  xy: 937, 68
+  size: 45, 51
+  orig: 54, 59
+  offset: 0, 4
   index: -1
-images/Flag
+bantay-01a
+  rotate: false
+  xy: 881, 67
+  size: 54, 52
+  orig: 54, 59
+  offset: 0, 6
+  index: -1
+bantay-02
+  rotate: false
+  xy: 1609, 1
+  size: 53, 43
+  orig: 54, 59
+  offset: 0, 12
+  index: -1
+bg
   rotate: true
-  xy: 1400, 3
-  size: 159, 260
-  orig: 161, 262
-  offset: 0, 0
-  index: -1
-images/Group 1
-  rotate: true
-  xy: 1332, 164
-  size: 278, 448
-  orig: 279, 449
-  offset: 1, 0
-  index: -1
-images/Head
-  rotate: false
-  xy: 1782, 84
-  size: 172, 215
-  orig: 172, 216
-  offset: 0, 0
-  index: -1
-images/bg
-  rotate: false
-  xy: 451, 13
+  xy: 1011, 223
   size: 196, 429
   orig: 196, 429
   offset: 0, 0
   index: -1
-images/body
-  rotate: false
-  xy: 847, 37
-  size: 300, 405
-  orig: 306, 405
-  offset: 5, 0
-  index: -1
-images/circlelight
+bg 2
   rotate: true
-  xy: 2, 3
-  size: 439, 447
-  orig: 439, 447
-  offset: 0, 0
-  index: -1
-images/coin1
-  rotate: false
-  xy: 1913, 36
-  size: 53, 46
-  orig: 60, 46
-  offset: 4, 0
-  index: -1
-images/coin2
-  rotate: false
-  xy: 1756, 3
-  size: 81, 79
-  orig: 98, 97
-  offset: 10, 11
-  index: -1
-images/color
-  rotate: false
-  xy: 1782, 301
-  size: 196, 141
-  orig: 196, 142
-  offset: 0, 0
-  index: -1
-images/eyes
-  rotate: false
-  xy: 894, 18
-  size: 44, 17
-  orig: 44, 17
-  offset: 0, 0
-  index: -1
-images/hip-armor-left
-  rotate: true
-  xy: 1332, 110
-  size: 52, 66
-  orig: 54, 66
-  offset: 0, 0
-  index: -1
-images/hip-armor-right
-  rotate: false
-  xy: 1662, 2
-  size: 92, 80
-  orig: 92, 80
-  offset: 0, 0
-  index: -1
-images/left-hand
-  rotate: false
-  xy: 1149, 110
-  size: 181, 332
-  orig: 181, 333
-  offset: 0, 0
-  index: -1
-images/lightoverlay
-  rotate: false
-  xy: 649, 13
+  xy: 1011, 421
   size: 196, 429
   orig: 196, 429
   offset: 0, 0
   index: -1
-images/right-arm 1
+body
+  rotate: false
+  xy: 836, 177
+  size: 165, 238
+  orig: 171, 238
+  offset: 6, 0
+  index: -1
+chan
   rotate: true
-  xy: 1248, 4
-  size: 104, 140
-  orig: 105, 141
+  xy: 1644, 100
+  size: 151, 75
+  orig: 171, 75
+  offset: 8, 0
+  index: -1
+cloud
+  rotate: true
+  xy: 1644, 253
+  size: 251, 82
+  orig: 251, 115
+  offset: 0, 17
+  index: -1
+dau
+  rotate: false
+  xy: 1644, 506
+  size: 91, 111
+  orig: 91, 113
   offset: 0, 0
   index: -1
-images/shoulder-armor-left
+lightcolumn2/lightcolumn2_00000
   rotate: false
-  xy: 1839, 3
-  size: 72, 79
-  orig: 72, 79
+  xy: 1, 417
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
-images/shoulder-armor-right
-  rotate: true
-  xy: 1149, 2
-  size: 106, 97
-  orig: 107, 99
-  offset: 1, 1
-  index: -1
-images/strawberry
+lightcolumn2/lightcolumn2_00001
   rotate: false
-  xy: 1662, 85
-  size: 79, 77
-  orig: 110, 110
-  offset: 19, 16
+  xy: 203, 417
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00002
+  rotate: false
+  xy: 405, 417
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00003
+  rotate: false
+  xy: 607, 417
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00004
+  rotate: false
+  xy: 809, 417
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00005
+  rotate: false
+  xy: 1442, 417
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00006
+  rotate: false
+  xy: 1442, 215
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00007
+  rotate: false
+  xy: 1, 215
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00008
+  rotate: false
+  xy: 203, 215
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00009
+  rotate: false
+  xy: 405, 17
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00010
+  rotate: false
+  xy: 607, 17
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00011
+  rotate: false
+  xy: 1, 13
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00012
+  rotate: false
+  xy: 203, 13
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00013
+  rotate: false
+  xy: 1003, 21
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00014
+  rotate: false
+  xy: 1205, 21
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00015
+  rotate: false
+  xy: 1407, 13
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lightoverlap
+  rotate: true
+  xy: 405, 219
+  size: 196, 429
+  orig: 196, 429
+  offset: 0, 0
+  index: -1
+lybia
+  rotate: true
+  xy: 1609, 46
+  size: 52, 76
+  orig: 57, 79
+  offset: 4, 1
+  index: -1
+mat-01
+  rotate: false
+  xy: 1664, 26
+  size: 44, 18
+  orig: 51, 23
+  offset: 3, 3
+  index: -1
+mat-03
+  rotate: true
+  xy: 809, 171
+  size: 46, 20
+  orig: 51, 23
+  offset: 2, 2
+  index: -1
+mieng-01
+  rotate: true
+  xy: 1609, 175
+  size: 38, 28
+  orig: 39, 32
+  offset: 1, 4
+  index: -1
+mieng-02
+  rotate: true
+  xy: 1609, 138
+  size: 35, 27
+  orig: 39, 32
+  offset: 2, 1
+  index: -1
+mieng-03
+  rotate: false
+  xy: 1664, 7
+  size: 39, 17
+  orig: 39, 32
+  offset: 0, 10
+  index: -1
+shadow
+  rotate: false
+  xy: 809, 121
+  size: 167, 48
+  orig: 171, 49
+  offset: 2, 0
+  index: -1
+tay-01
+  rotate: true
+  xy: 809, 62
+  size: 57, 70
+  orig: 81, 127
+  offset: 21, 31
+  index: -1
+tay-01a
+  rotate: false
+  xy: 1728, 430
+  size: 62, 74
+  orig: 81, 127
+  offset: 18, 29
+  index: -1
+tay-02
+  rotate: false
+  xy: 1728, 254
+  size: 60, 88
+  orig: 81, 127
+  offset: 18, 14
+  index: -1
+tay-03
+  rotate: false
+  xy: 1737, 522
+  size: 58, 95
+  orig: 81, 127
+  offset: 19, 8
+  index: -1
+tay-03a
+  rotate: false
+  xy: 1728, 344
+  size: 61, 84
+  orig: 81, 127
+  offset: 19, 18
+  index: -1
+tayphai
+  rotate: false
+  xy: 1721, 5
+  size: 58, 150
+  orig: 58, 150
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: false
+  xy: 1721, 157
+  size: 70, 94
+  orig: 70, 94
+  offset: 0, 0
+  index: -1
+toc
+  rotate: false
+  xy: 1687, 62
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
   index: -1
