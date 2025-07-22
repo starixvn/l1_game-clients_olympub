@@ -100,5 +100,13 @@
         "type": "music",
         "isMusicGame": true,
         "isLazyLoad": true
+    },
+    "env-music": {
+        "bundle": "resources",
+        "path": "background-music/env-music",
+        "type": "music",
+        "isMusicGame": true,
+        "isAdditionMusicGame": true,
+        "isLazyLoad": true
     }
 }
