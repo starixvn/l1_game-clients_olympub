@@ -5,7 +5,9 @@
         "th": "Olympub",
         "vi": "Quán Bar\nOlympus",
         "zh_cn": "奥林酒馆",
-        "zh_tw": "奧林酒館"
+        "zh_tw": "奧林酒館",
+        "ja": "Olympub",
+        "es": "Olympub"
     },
     "gameNames": {
         "en": "Olympub",
@@ -13,6 +15,8 @@
         "th": "Olympub",
         "vi": "Quán Bar Olympus",
         "zh_cn": "奥林酒馆",
-        "zh_tw": "奧林酒館"
+        "zh_tw": "奧林酒館",
+        "ja": "神々のパブ",
+        "es": "Olympub"
     }
 }
