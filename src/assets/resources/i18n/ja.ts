@@ -286,7 +286,7 @@ export const languages = {
     },
     "Olympub": {
         "game_icon_name": "Olympub",
-        "game_name": "神々のパブ"
+        "game_name": "Olympub"
     }
 };
 
