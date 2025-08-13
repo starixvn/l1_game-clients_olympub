@@ -3,5 +3,6 @@
     "turnOnMultiplierMascot": true,
     "multiplierMascotAnimationName": "event",
     "bigWinMascotAnimationName": "event",
-    "freespinMascotAnimationName": "freespins"
+    "freespinMascotAnimationName": "freespins",
+    "fixedExplodeDuration": 0.6
 }
