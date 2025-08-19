@@ -1,22 +1,30 @@
 {
     "lobbyNames": {
         "en": "Olympub",
+        "es": "Olympub",
+        "fil_ph": "Olympub",
         "id": "Olympub",
+        "ja": "Olympub",
+        "ko": "올림펍",
+        "pt_br": "Olympub",
         "th": "Olympub",
+        "tr": "Olympub",
         "vi": "Quán Bar\nOlympus",
         "zh_cn": "奥林酒馆",
-        "zh_tw": "奧林酒館",
-        "ja": "Olympub",
-        "es": "Olympub"
+        "zh_tw": "奧林酒館"
     },
     "gameNames": {
         "en": "Olympub",
+        "es": "Olympub",
+        "fil_ph": "Olympub",
         "id": "Olympub",
+        "ja": "Olympub",
+        "ko": "올림펍",
+        "pt_br": "Olympub",
         "th": "Olympub",
+        "tr": "Olympub",
         "vi": "Quán Bar Olympus",
         "zh_cn": "奥林酒馆",
-        "zh_tw": "奧林酒館",
-        "ja": "Olympub",
-        "es": "Olympub"
+        "zh_tw": "奧林酒館"
     }
 }
